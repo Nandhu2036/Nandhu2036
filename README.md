@@ -1,6 +1,4 @@
-🔭 Currently navigating the exciting world of Mechanical Engineering in my 1st year.
-👯 Open to collaboration on projects that mix innovation and creativity.
-🤝 Proficient in Python, HTML, CSS, and the art of Bootstrap 3&4.
-🌱 Learning the language of the web with JavaScript and just kicked off a SQL adventure.
-💬 Curious about the magic in my code? Ask away!
-⚡ Fun fact: This Mechanical Engineer crafts symphonies in Python and C, and during downtime, designs whimsical worlds in Figma—where precision meets creativity in a code-driven dance.
+Pursuing a Bachelor's degree in Mechanical Engineering with experience in 3D printing, Python, HTML, CSS, and Bootstrap (3 & 4).
+Currently learning JavaScript and SQL to broaden my skill set in web development and design.
+Interested in technical discussions or project collaborations.
+I also enjoy designing in Figma, combining creativity and precision to bring ideas to life.
