@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🚀 What I Do:<br>          👨‍💻 Code & Development: Python, C, JavaScript (learning), SQL, Web Development (HTML, CSS, Bootstrap).<br><br>          🛠️ Engineering & Design: 3D printing, CAD (Fusion 360), mechanical system analysis.<br><br>          🎨 Creativity & Media: Poster design, Figma UI/UX, Photoshop & Premiere Pro.<br><br>          📊 Tech & Research: Solar energy, CPV panels, finite element analysis (FEA), and energy efficiency.<br><br>🔥 Current Focus:<br>          Developing a solar panel to improve the maximum solar efficiency.<br><br>          Exploring COMSOL Multiphysics® for advanced simulations.<br><br>🎯 Beyond Tech:<br>          I love diving into business models, understanding how things work, and analyzing algorithms. In my free time, I enjoy music, deep thinking, and solo exploration.</h3>
+<h5 align="left">🚀 What I Do:<br>          👨‍💻 Code & Development: Python, C, JavaScript (learning), SQL, Web Development (HTML, CSS, Bootstrap).<br><br>          🛠️ Engineering & Design: 3D printing, CAD (Fusion 360), mechanical system analysis.<br><br>          🎨 Creativity & Media: Poster design, Figma UI/UX, Photoshop & Premiere Pro.<br><br>          📊 Tech & Research: Solar energy, CPV panels, finite element analysis (FEA), and energy efficiency.<br><br>🔥 Current Focus:<br>          Developing a solar panel to improve the maximum solar efficiency.<br><br>          Exploring COMSOL Multiphysics® for advanced simulations.<br><br>🎯 Beyond Tech:<br>          I love diving into business models, understanding how things work, and analyzing algorithms. In my free time, I enjoy music, deep thinking, and solo exploration.</h5>
 
 ###
 
